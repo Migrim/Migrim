@@ -4,7 +4,6 @@
 
 ## Projects in Development
 
-
 - **OTP-Manager**: Securely manage one-time passwords with ease.
 - **Firefox Startpage**: A minimal, fast, and functional startpage for Firefox.
 - More to come.
@@ -23,5 +22,12 @@
   
 ## Connect with Me
 
-- [GitHub](https://github.com/Migrim)
-- [One-Auth Network](https://one-auth.net)
+<p align="center">
+  <a href="https://github.com/Migrim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://one-auth.net">
+    <img src="https://img.shields.io/badge/One--Auth_Network-4285F4?style=flat&logoColor=white" alt="One-Auth Network">
+  </a>
+</p>
+
