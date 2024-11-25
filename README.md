@@ -11,16 +11,15 @@
 ## Current Focus
 
 - Front-end development: refining my skills in HTML, CSS, and JavaScript.
-- Exploring Micropython for projects with ESP32 microcontrollers.
+- Exploring Micropython and C++ for projects with ESP32 microcontrollers.
 - Enhancing [One-Auth Network](https://one-auth.net) with new features and functionality.
 
 ## Tech Stack
 
-- **Languages**: Python, HTML, CSS, JavaScript, Micropython, Vala, Batch, Swift.
+- **Languages**: Python, HTML, CSS, JavaScript, Micropython, Vala, Batch, Swift, C++.
 - **Tools**: Flask, VS Code, Xcode, GNOME, Git, Meson, Valac, libgtk, libhandy.
 - **Frameworks**: Flask, Web GUI Development, QT, EEL.
   
-## Connect with Me
 
 <p align="center">
   <a href="https://github.com/Migrim">
