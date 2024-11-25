@@ -5,7 +5,7 @@
 ## Projects in Development
 
 - **OTP-Manager**: Securely manage one-time passwords with ease.
-- **Firefox Startpage**: A minimal, fast, and functional startpage for Firefox.
+- **Glass Startpage**: A minimal, fast, and functional startpage for Firefox and Chrome.
 - More to come.
 
 ## Current Focus
