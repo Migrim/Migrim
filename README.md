@@ -16,7 +16,7 @@
 
 ## Tech Stack
 
-- **Languages**: Python, HTML, CSS, JavaScript, Micropython, Vala, Batch, Swift, C++.
+- **Languages**: Python, HTML, CSS, JavaScript, Micropython, Batch | Still learning: Vala, Swift, C++.
 - **Tools**: Flask, VS Code, Xcode, GNOME, Git, Meson, Valac, libgtk, libhandy.
 - **Frameworks**: Flask, Web GUI Development, QT, EEL.
 
