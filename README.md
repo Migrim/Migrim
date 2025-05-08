@@ -6,6 +6,7 @@
 
 - **OTP-Manager**: Securely manage one-time passwords with ease.
 - **Glass Startpage**: A minimal, fast, and functional startpage for Firefox and Chrome.
+- **3cx-Dialer**: Embedded the 3cx Web-App into a native Mac-App.
 - More to come.
 
 ## Current Focus
